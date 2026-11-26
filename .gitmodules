@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/mikenguyen13/mikenguyen13.r-universe.dev
 	branch = HEAD
+[submodule "causalverse"]
+	path = causalverse
+	url = https://github.com/mikenguyen13/causalverse
 [submodule "regsensitivity"]
 	path = regsensitivity
 	url = https://github.com/mikenguyen13/regsensitivity
+[submodule "synthdid"]
+	path = synthdid
+	url = https://github.com/synth-inference/synthdid
